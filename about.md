@@ -32,12 +32,12 @@ header-img: "img/green.jpg"
 
 
 
--[百度](http://www.baidu.com)
+-[百度](https://www.baidu.com/)
 
 
 ###联系
 
-- [博客：www.dufaxing.com](www.dufaxing.com)
+- [博客：www.dufaxing.com](http://dufaxing.com/)
 
 - [微博@H一Cl](http://weibo.com/207775270)
 
