@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tags"
-description: "常用的网站以及工具"  
+description: "工具"  
 header-img: "img/semantic.jpg"  
 ---
 
